@@ -1,0 +1,6 @@
+<module>
+	<id>nabu.authentication.kerberos.server</id>
+	<name>Kerberos Provider</name>
+	<description>This module allows you to plug in kerberos authentication.</description>
+	<version>1.0</version>
+</module>
